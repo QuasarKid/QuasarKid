@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuasarKid
 - 👀 I’m interested in Network Automation
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, yaml, nornir, netmiko, ntc-templates, napalm, jinja2
 - 💞️ I’m looking to collaborate on anything I feel I can positively contribute toward
 
 <!---
